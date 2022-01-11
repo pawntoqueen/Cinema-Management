@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/name_surname"
+        android:text="Buraya Isım Gelicek"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#9371E0"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/position"
+        android:text="Buraya görevi Gelicek"
+        android:textColor="#39C5CF"
+        android:layout_below="@+id/name_surname"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/phone_num"
+        android:textColor="#E7785B"
+        android:layout_alignParentRight="true"
+
+        android:layout_marginRight="@android:dimen/app_icon_size"
+        android:text="Tel no"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/staff_id"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@android:dimen/app_icon_size"
+        android:text="Id yazılacak"
+        android:layout_below="@+id/name_surname"
+
+        android:layout_height="wrap_content" />
+
+
+</RelativeLayout>

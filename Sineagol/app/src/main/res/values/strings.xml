@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Sineagol</string>
+    <string-array name="seats">
+        <item>A-1</item>
+        <item>A-2</item>
+        <item>A-3</item>
+        <item>A-4</item>
+        <item>B-1</item>
+        <item>B-2</item>
+        <item>B-3</item>
+        <item>B-4</item>
+        <item>C-1</item>
+        <item>C-2</item>
+        <item>C-3</item>
+        <item>C-4</item>
+        <item>D-1</item>
+        <item>D-2</item>
+        <item>D-3</item>
+        <item>D-4</item>
+        <item>E-1</item>
+        <item>E-2</item>
+        <item>E-3</item>
+        <item>E-4</item>
+        <item>F-1</item>
+        <item>F-2</item>
+        <item>F-3</item>
+        <item>F-4</item>
+        <item>G-1</item>
+        <item>G-2</item>
+        <item>G-3</item>
+        <item>G-4</item>
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21509363161",
+    "firebase_url": "https://sinegol-47801.firebaseio.com",
+    "project_id": "sinegol-47801",
+    "storage_bucket": "sinegol-47801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21509363161:android:3d9ae4807b185624b075c8",
+        "android_client_info": {
+          "package_name": "com.sine.sineagol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21509363161-u9rrtm28pkikupl8ivivo5rj4tol6mv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ9heLPBiPEYXQmC_67xIqw6pkTXpAC2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21509363161-u9rrtm28pkikupl8ivivo5rj4tol6mv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
